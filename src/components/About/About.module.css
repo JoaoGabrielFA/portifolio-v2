@@ -1,0 +1,13 @@
+.about{
+  height: 80vh;
+  width: 85%;
+  margin: auto;
+}
+
+.title{
+  font-size: 2rem;
+  color: var(--secondary-color);
+  font-weight: bold;
+  border-bottom: 4px solid var(--secondary-color);
+  margin-bottom: 20px;
+}

@@ -1,0 +1,38 @@
+.home{
+  width: 100vw;
+  height: 90vh;
+}
+
+.home_content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 85%;
+  height: 100%;
+  margin: auto;
+  font-size: 3rem;
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  color: var(--secondary-color);
+  cursor: default;
+}
+
+.effect{
+  color: var(--link-color);
+  border-bottom: 4px solid var(--link-color);
+}
+
+.home_button{
+  font-size: 1.2rem;
+  margin-top: 20px;
+  padding: 5px 30px;
+  border: 3px solid var(--secondary-color);
+  cursor: pointer;
+  transition: .5s;
+}
+
+.home_button:hover{
+  color: var(--link-color);
+  border-color: var(--link-color);
+}

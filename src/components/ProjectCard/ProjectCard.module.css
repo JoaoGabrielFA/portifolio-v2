@@ -1,0 +1,16 @@
+.card{
+  display: flex;
+  flex-direction: column;
+  width: calc(10% - 5px);
+}
+
+.card_img{
+  width: 100%;
+  aspect-ratio: 9/5;
+  /* background-image: url(https://github.com/JoaoGabrielFA/netflix/assets/112104535/c0f73398-8b4c-49ca-ad48-df3b6284badb); */
+  background-size: cover;
+  background-color: red;
+  background-position: center;
+  border: 3px solid var(--secondary-color);
+  border-radius: 10px;
+}
