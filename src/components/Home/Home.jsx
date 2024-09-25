@@ -7,7 +7,7 @@ function Home() {
       <div className={styles.home_content}>
         <span>Olá, meu nome é João</span>
         <span>e sou Desenvolvedor <span className={styles.effect}>Front-End</span> </span>
-        <span className={styles.home_button}>See My Projects</span>
+        <span className={styles.home_button}>ENTRAR EM CONTATO</span>
       </div>
     </div>
   )

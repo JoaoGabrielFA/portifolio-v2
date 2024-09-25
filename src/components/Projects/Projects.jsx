@@ -19,7 +19,7 @@ function Projects() {
   return (
     <div className={styles.projects}>
       <div className={styles.projects_content}>
-        <span className={styles.projects_title}>PROJECTS</span>
+        <span className={styles.projects_title}>MEUS PROJETOS</span>
         <div className={styles.projects_slider}>
           <div className={styles.projects_slider_image} style={{ backgroundImage: `url(${projectImage})` }}>
             <div className={styles.projects_cards}>
