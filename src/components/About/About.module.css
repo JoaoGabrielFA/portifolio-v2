@@ -17,8 +17,9 @@
   font-family: "Oswald", sans-serif;
   font-weight: 400;
   color: var(--secondary-color);
-  padding-bottom: 20px;
+  padding: 20px 0;
   text-transform: uppercase;
+  text-align: center;
   font-weight: bold;
 }
 
@@ -26,14 +27,7 @@
   font-family: "Oswald", sans-serif;
   font-weight: 400;
   color: var(--secondary-color);
-  /* text-transform: uppercase; */
   font-weight: bold;
   font-size: 1.2rem;
   text-align: center;
-  /* padding-top: 30px; */
 }
-
-/* .about_content_left, .about_content_right{
-  width: 45%;
-  border: 1px solid red;
-} */
