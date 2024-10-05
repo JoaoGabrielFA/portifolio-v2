@@ -1,8 +1,8 @@
 export const projects = [
   {
     title: 'Blog de Games',
-    text: '',
-    img: '',
+    text: 'O "Games Blog" (nome provisório) é um site de notícias sobre jogos que estou criando junto com meu irmão. Estamos sempre buscando melhorá-lo, com o objetivo de torná-lo um portal sério de notícias. O site foi desenvolvido em React.js e conta com uma API própria para gerenciar as notícias',
+    img: 'https://raw.githubusercontent.com/JoaoGabrielFA/portifolio-v2/refs/heads/main/src/img/games_blog.png',
     repository: 'https://blog-games1410.vercel.app'
   },
   {
