@@ -1,15 +1,21 @@
 export const projects = [
   {
+    title: 'Blog de Games',
+    text: '',
+    img: '',
+    repository: 'https://blog-games1410.vercel.app'
+  },
+  {
     title: 'Netflix Clone',
     text: 'Este é um projeto de clone da Netflix desenvolvido como parte do meu aprendizado em React.JS. Utilizei a API TMDB para buscar todos os dados de filmes e séries de TV. O principal objetivo deste projeto é aprimorar minhas habilidades em desenvolvimento front-end, recriando a interface moderna e atraente da Netflix.',
     img: 'https://github.com/JoaoGabrielFA/netflix/assets/112104535/c0f73398-8b4c-49ca-ad48-df3b6284badb',
-    repository: 'https://github.com/JoaoGabrielFA/netflix'
+    repository: 'https://joaogabrielfa.github.io/netflix'
   },
   {
     title: 'Alurageek',
     text: 'Alurageek é um site de e-commerce que foi desenvolvido com HTML, CSS e Javascript. Ele possui recursos para gerenciamento de produtos, incluindo a possibilidade de fazer login, criar, editar e excluir produtos. Além disso, uma máscara de monetária foi implementada para formatar os preços de maneira intuitiva para os usuários. (01/2023)',
     img: 'https://joaogabrielfa.github.io/Portifolio/img/experiencias/alurageek.png',
-    repository: 'https://github.com/JoaoGabrielFA/AluraGeek'
+    repository: 'https://joaogabrielfa.github.io/AluraGeek'
   },
   {
     title: 'Conversor de Moeda',
@@ -21,7 +27,7 @@ export const projects = [
     title: 'Jogo da Forca',
     text: 'Este jogo de forca simples foi desenvolvido com HTML, CSS, Javascript e um pouco de Bootstrap. Possui 50 palavras distribuídas entre 5 categorias distintas e um código que registra o número de tentativas dos jogadores. Além disso, a arte do jogo foi criada por mim. (11/2022)',
     img: 'https://joaogabrielfa.github.io/Portifolio/img/experiencias/jogo_da_forca.png',
-    repository: 'https://github.com/JoaoGabrielFA/JogoDaForca'
+    repository: 'https://joaogabrielfa.github.io/JogoDaForca'
   },
   {
     title: 'Resgate aos Porquinhos',

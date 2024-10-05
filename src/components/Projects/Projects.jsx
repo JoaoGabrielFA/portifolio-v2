@@ -35,7 +35,7 @@ function Projects() {
           <div className={styles.projects_slider_content}>
             <span className={styles.projects_slider_content_title}>{projectTitle}</span>
             <span className={styles.projects_slider_content_text}>{projectText}</span>
-            <a className={styles.projects_slider_content_button} href={projectRepository} target='_blank'>Ver Repositório</a>
+            <a className={styles.projects_slider_content_button} href={projectRepository} target='_blank'>Ver Projeto</a>
           </div>
         </div>
       </div>

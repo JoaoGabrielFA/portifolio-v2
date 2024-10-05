@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from './Skills.module.css';
-import SkillCard from '../SkillCard/SkillCard';
 import { FaReact } from "react-icons/fa";
 import { FaJsSquare } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";

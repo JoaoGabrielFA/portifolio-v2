@@ -16,7 +16,7 @@ body {
 #root {
   width: 100vw;
   height: 100%;
-  background-color: #1b1d29;
+  background-color: var(--primary-color);
   /* background: linear-gradient(#1b1d29, #000000); */
   /* background: linear-gradient(-45deg, 
   #0f84ae, #000c63, #342072, #351226);
@@ -37,10 +37,8 @@ body {
 }
 
 :root {
-  --primary-color: #00000000;
-  /* Azul-marinho */
+  --primary-color: #1b1d29;
+  --primary-color-dark: #15161e;
   --secondary-color: #e1e1e1;
-  /* Cinza-claro */
   --link-color: #a01629;
-  /* Verde-menta */
 }

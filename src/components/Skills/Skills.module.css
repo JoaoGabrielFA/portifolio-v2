@@ -36,7 +36,7 @@
   justify-content: center;
   width: 7%;
   aspect-ratio: 1/1;
-  background-color: #15161e;
+  background-color: var(--primary-color-dark);
   color: var(--secondary-color);
   border: 2px solid transparent;
   border-radius: 50%;
